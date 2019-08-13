@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
     <name>BcS_Modul_Versand_DPD_Cloud</name>
-    <version>3.0.0</version>
+    <version>3.0.1</version>
     <stability>stable</stability>
     <license>--</license>
     <channel>community</channel>
